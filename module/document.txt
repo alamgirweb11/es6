@@ -1,0 +1,2 @@
+for practice es6 module, the file and folder run under the server.
+like: xampp, mampp, wampp
